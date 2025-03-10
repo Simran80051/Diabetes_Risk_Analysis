@@ -37,6 +37,14 @@ Number of Records: 1000
 
 Number of Features: 14
 
+## Features
+
+**Demographics:** Gender, Age
+
+**Medical History & Health Parameters:** BMI, Cholesterol, Urea, HbA1c, Triglycerides, LDL, VLDL, etc.
+
+**Diabetes Classification (Target Variable):** CLASS (Diabetic, Non-Diabetic, Prediabetic)
+
 ### Machine Learning Models Used
 
 Two classification models were trained and evaluated:
