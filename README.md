@@ -7,7 +7,7 @@
 
 
 
-# <h1 align="center" id="heading"># Project Title-Diabetes Classification and Risk Factor Analysis
+# <h1 align="center" id="heading"> Project Title-Diabetes Classification and Risk Factor Analysis
 </h1>
 
 
