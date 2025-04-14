@@ -87,9 +87,7 @@ Class imbalance was observed, with class 2 (Diabetic) being the most frequent ca
 
 Feature importance analysis can help in understanding the significant predictors of diabetes.
 
-### Repository Link
 
-GitHub - Simran80051/Diabetes_Dataset
 
 
 
